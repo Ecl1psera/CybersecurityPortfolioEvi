@@ -1,0 +1,1 @@
+This is a webpage for a local computer parts and repair store in Baldivis. Due to the need to update content regularly, the website uses wordpress which could be vulnerable to brute force attacks to bypass the login page.
